@@ -8,7 +8,8 @@ Mode 2: The user could use the 'wasd' to adjust the positions of the obstacles s
 
 # Content
 ## Main interface (Mode 1)
-![Main Interface](https://github.com/Asuka008/An-ecosystem-simulaion-system/blob/main/Image/Fig2.png)
+![Main Interface](https://github.com/Asuka008/An-ecosystem-simulaion-system/blob/main/Image/Fig2.png) 
+The left column contains the game settings. Adjust them if you need to.
 ## Help
 ![Help](https://github.com/Asuka008/An-ecosystem-simulaion-system/blob/main/Image/fig1.png)
 ## Mode 2
